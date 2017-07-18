@@ -1,2 +1,2 @@
-# sort_golang
-go言語を使ってSort
+# golang_practice
+go言語を使って遊ぶヅラ
